@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+
+
+
+
+<h1>Welcome to SvelteKit Dev Ops</h1>
+<h2>Consulting Ninja</h2>
+<h2>Commit from VSCode?</h2>
